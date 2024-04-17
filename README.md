@@ -8,15 +8,15 @@ For Single Fault scenarios, implement a Convolutional Neural Network (CNN) combi
 3.Automatic Hyperparameter Tuning:
 Both models incorporate automatic hyperparameter tuning.
 Hyperparameter ranges and values:
-CNN Layers: 0–5
-LSTM Layers: 0–5
-Dense Layers: 0–5
-Epochs: 50–900
-Max Pooling Layer: 0–1
-Drop Layer: 0–2
-Batch Normalization Layer: 0–2
-Batch Size: 64–150
-Learning Rate: 0.001–0.0001
+1) CNN Layers: 0–5
+2) LSTM Layers: 0–5
+3) Dense Layers: 0–5
+4) Epochs: 50–900
+5) Max Pooling Layer: 0–1
+6) Drop Layer: 0–2
+7) Batch Normalization Layer: 0–2
+8) Batch Size: 64–150
+9) Learning Rate: 0.001–0.0001
 
 4.Output:
 Generate bar graphs for each identified fault.
