@@ -1,6 +1,6 @@
 # Reinforcement-Learning-for-optimizing- Single Fault-Detection-and-Classification    
 1. Objective:
-Using Reinforcement Learning for optimizing Fault Detection and Classification.
+Using Reinforcement Learning for optimizing Single Fault Detection and Classification.
 
 2.Models for Single Fault:
 For Single Fault scenarios, implement a Convolutional Neural Network (CNN) combined with Long Short-Term Memory (LSTM) architecture.
